@@ -9,5 +9,4 @@ Sample solution for the [github_user_activity](https://roadmap.sh/projects/githu
 Clone the repository and run the following commands:
 
 ```bash
-git clone https://github.com/syed01-53/task_tracker_CLI.git
-cd task_tracker_CLI
+git clone https://github.com/syed01-53/git_hub_user_activity.git
